@@ -1,0 +1,11 @@
+Options +FollowSymlinks
+
+RewriteEngine on
+
+RewriteRule ^mangas/([^/]+)/([^/]+)/$ - [F,L]
+RewriteRule ^mangas/([^/]+)/$ - [F,L]
+RewriteRule ^mangas(/?)$ - [F,L]
+
+RewriteRule ^([^/.]+)/([^/.]+)/([0-9]+)(/?)$ index.php?manga=$1&chapter=$2&page=$3 [L]
+RewriteRule ^([^/.]+)/([^/.]+)(/?)$ index.php?manga=$1&chapter=$2 [L]
+RewriteRule ^([^/.]+)(/?)$ index.php?manga=$1 [L]
