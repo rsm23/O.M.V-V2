@@ -186,7 +186,7 @@ function change_page(manga, chapter, page) {
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Credits <b class="caret"></b></a>
           <ul class="dropdown-menu">
-            <li><a href="http://www.free-tuts.eu">Free TUTS</a></li>
+            <li><a href="http://www.stickytuts.com">Sticky TUTS</a></li>
             <li><a href="http://bootswatch.com/superhero/">Using Super Hero - Bootswatch</a></li>
             <li><a href="mailto:cool2309@gmail.com">Saif Lacrimosa</a></li>
           </ul>
