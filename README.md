@@ -21,4 +21,4 @@ How To:
 Coded with love from Saif Lacrimosa.
 	http://rsm23.github.io/O.M.V-V2/
 	http://www.rahmani.site
-	saif@rahmani.site
+	mailto:saif@rahmani.site
