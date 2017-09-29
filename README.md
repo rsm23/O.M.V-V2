@@ -29,4 +29,4 @@ If you discover a security vulnerability within this package, please send an e-m
 
 ## License
 
-LaraGit is licensed under [The MIT License (MIT)](LICENSE).
+OMV V2 is licensed under [The MIT License (MIT)](LICENSE).
